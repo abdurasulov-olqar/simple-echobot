@@ -6,7 +6,7 @@ from main import start
 
 
 app = Flask(__name__)
-TOKEN = '5961200046:AAH4p8t9oPXRr9zCbpZMoxUyVP6ZrPKV_rY'
+TOKEN = '5591155154:AAHn0llNadmGCykPsdpkfc5OXcv54S0MQyc'
 
 bot: Bot = Bot(TOKEN)
 
